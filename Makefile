@@ -1,5 +1,5 @@
 SOURCEPATH = .
-TARGETPATH = ~/.config/doom/themes/
+TARGETPATH = ~/.doom-emacs.d/doom/themes/
 
 install:
 	mkdir -p $(TARGETPATH)
